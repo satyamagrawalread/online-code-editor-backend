@@ -101,10 +101,12 @@
     "utils-merge": "^1.0.1",
     "vary": "^1.1.2",
     "ws": "^8.11.0",
-    "yallist": "^4.0.0"
+    "yallist": "^4.0.0",
+    "yarn": "^1.22.19"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
